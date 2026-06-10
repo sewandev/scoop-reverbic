@@ -1,13 +1,13 @@
 {
-  "version": "1.4.2",
+  "version": "1.5.0",
   "description": "Terminal radio player & Spotify remote for Windows",
   "homepage": "https://github.com/sewandev/Reverbic",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/sewandev/Reverbic/releases/download/v1.4.2/reverbic-v1.4.2-x86_64-windows.exe",
-      "bin": "reverbic-v1.4.2-x86_64-windows.exe",
-      "hash": "26a450107dfc35bd25b9710b617fa58565e817dc856dc92d0e633e744cad8a41"
+      "url": "https://github.com/sewandev/Reverbic/releases/download/v1.5.0/reverbic-v1.5.0-x86_64-windows.exe",
+      "bin": "reverbic-v1.5.0-x86_64-windows.exe",
+      "hash": "66671e30dc5277438c1fc9df54908003df0a5e3cf10b806d640c2ed0bc12dccd"
     }
   },
   "autoupdate": {
